@@ -4,6 +4,8 @@ projekt.2019.pacocha
 ====================
 
 <!-- badges: start -->
+[![Lifecycle:
+archived](https://img.shields.io/badge/lifecycle-archived-red.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 <!-- badges: end -->
 Authors: Błażej Kościański, Patryk Połomski, Jakub Pacocha
 
